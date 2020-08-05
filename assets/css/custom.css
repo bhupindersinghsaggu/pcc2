@@ -1,0 +1,19 @@
+
+
+
+.heading-block bottommargin-lg center border-0{
+    content: attr(data-heading);
+    display: block;
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    right: 0px;
+    color: #e2e0e059;
+    z-index: -1;
+    font-family: montserrat;
+    font-weight: bold;
+    font-size: 123px;
+    line-height: .3;
+    text-align: center;
+    align-items: center;
+}
